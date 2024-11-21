@@ -1,0 +1,29 @@
+[
+    {
+        "matricula": 123,
+        "marca": "Toyota",
+        "modelo": "Hilux",
+        "año": 20183,
+        "tipo": "camión",
+        "kilometraje": 1150000,
+        "estado": "disponible"
+    },
+    {
+        "matricula": 3333,
+        "marca": "ford",
+        "modelo": "huaira",
+        "año": 2020,
+        "tipo": "Deportivo",
+        "kilometraje": 5000,
+        "estado": "Ocupado"
+    },
+    {
+        "matricula": "5555",
+        "marca": "ford",
+        "modelo": "huaira",
+        "año": 2020,
+        "tipo": "Deportivo",
+        "kilometraje": 5000,
+        "estado": "Ocupado"
+    }
+]

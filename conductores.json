@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Santiago",
+    "apellido": "Vargas",
+    "dni": 1111,
+    "nroLicencia": 2312,
+    "categLicencia": "Pesados",
+    "antiguedad": 5,
+    "contacto": 29923424
+  },
+  {
+    "nombre": "abril",
+    "apellido": "sepulveda",
+    "dni": 2222,
+    "nroLicencia": 12334,
+    "categLicencia": "Pesados",
+    "antiguedad": 6,
+    "contacto": 2994546
+  },
+  {
+    "nombre": "abbbbb",
+    "apellido": "sepulveda",
+    "dni": 4444,
+    "nroLicencia": 435355,
+    "categLicencia": "Pesados",
+    "antiguedad": 6,
+    "contacto": 2994546
+  }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "matricula": 123,
+        "tipoMantenimiento": "preventivo",
+        "fecha": "2024-10-01",
+        "costo": 2000,
+        "piezasCambiadas": [
+            "filtro de aceite",
+            "neumático"
+        ],
+        "proveedor": "Mecánica Los Andes",
+        "duracion": "3 horas"
+    }
+   
+]

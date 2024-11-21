@@ -1,0 +1,12 @@
+[
+  {
+    "matricula": 123,
+    "dni": 1111,
+    "fechaAsignacion": "2024-11-12"
+  },
+  {
+    "matricula": 3333,
+    "dni": 2222,
+    "fechaAsignacion": "2022-12-11"
+  }
+]

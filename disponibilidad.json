@@ -1,0 +1,10 @@
+[
+    {
+        "matricula": 123,
+        "fechaInicio": "2024-10-01",
+        "fechaFin": "2024-10-05",
+        "motivo": "mantenimiento preventivo",
+        "responsable": "Mecánica Los Andes"
+    }
+   
+]

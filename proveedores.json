@@ -1,0 +1,9 @@
+[
+    {
+        "nombreEmpresa": "Mecánica Los Andes",
+        "contacto": 123456789,
+        "serviciosOfrecidos": ["mantenimiento preventivo", "reparación de motores"],
+        "ubicacion": "Calle Falsa 123, Ciudad",
+        "calificacion": 4.5
+    }
+]
